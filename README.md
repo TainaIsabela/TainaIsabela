@@ -19,8 +19,10 @@ I am Tainá Isabela, I am a junior systems developer, and in my spare time novel
 [![Tainá's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainaIsabela&theme=midnight-purple&show_icons=true)](https://github.com/TainaIsabela/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&theme=midnight-purple&show_icons=true)](https://github.com/TainaIsabela/github-readme-stats)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/TainaIsabela/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/TainaIsabela/TainaIsabela/blob/output/github-contribution-grid-snake.svg)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
 
 
