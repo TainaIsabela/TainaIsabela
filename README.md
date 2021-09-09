@@ -1,7 +1,9 @@
 ### Oii! Eu sou a Tainá Isabela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de livros. Sou bastante curiosa então não se assuste com alguns projetos malucos que possam aparecer por aqui.
 
- <div>
+<!--<img align="right" alt="Nanazinha" height="130" width="130" src="https://i.picasion.com/pic91/e3c47d8666c0e82cfb8f5f6b1201f472.gif">
+-->
+<div>
   <a href="https://github.com/TainaIsabela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaIsabela&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&layout=compact&langs_count=7&theme=nightowl"/>
@@ -20,7 +22,6 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img align="center" alt="Tai-Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
   <img align="center" alt="Tai-Ubuntu" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Tai-Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
- <img align="right" alt="Nanazinha" height="130" width="130" src="https://i.picasion.com/pic91/e3c47d8666c0e82cfb8f5f6b1201f472.gif">
 </div>
 
 ##
