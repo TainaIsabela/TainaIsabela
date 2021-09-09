@@ -20,6 +20,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img align="center" alt="Tai-Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
   <img align="center" alt="Tai-Ubuntu" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Tai-Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="right" alt="Nanazinha" height="130" width="130" src="https://i.picasion.com/pic91/e3c47d8666c0e82cfb8f5f6b1201f472.gif">
 </div>
 
 ##
