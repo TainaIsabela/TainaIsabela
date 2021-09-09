@@ -1,23 +1,34 @@
-### Hi I'm Tainá <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-I am Tainá Isabela, I am a junior systems developer, and in my spare time novelist. I am extremely curious, I am always looking for something new to learn and put into practice!
+### Oii! Eu sou a Tainá Isabela <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de livros. Sou bastante curiosa então não se assuste com alguns projetos malucos que possam aparecer por aqui.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tainá_Isabela-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainá-isabela-368286130/)[![Mail Badge](https://img.shields.io/badge/-Tainá_Isabela-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tainaisabela9@gmail.com)
+ <div>
+  <a href="https://github.com/TainaIsabela">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaIsabela&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 
-- 📫 How to reach me: tainaisabela9@gmail.com.
-- ⚡ Fun fact: My lucky number is nine, but not that I'm superstitious, it's just coincidence.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tai-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tai-Node" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Tai-MongoDB" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Tai-MySQL" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Tai-PostSQL" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Tai-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tai-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tai-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Tai-Git" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Tai-Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="Tai-Ubuntu" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Tai-Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div>
 
-#### Top Technologies
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&labelColor=black&logo=python&logoColor=white"/)](#)
-[![HTML Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&labelColor=black&logo=html5&logoColor=white/)](#)
-[![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&labelColor=black&logo=css3&logoColor=white/)](#)
-[![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&labelColor=black&logo=git&logoColor=white/)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white/)](#)
+##
+  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainá-isabela-368286130/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tainaisabela9@gmail.com)
 
 
-[![Tainá's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainaIsabela&theme=midnight-purple&show_icons=true)](https://github.com/TainaIsabela/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&theme=midnight-purple&show_icons=true)](https://github.com/TainaIsabela/github-readme-stats)
+ ![Snake animation](https://github.com/TainaIsabela/TainaIsabela/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -28,8 +39,9 @@ I am Tainá Isabela, I am a junior systems developer, and in my spare time novel
 **TainaIsabela/TainaIsabela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🔭 Atualmente trabalho com Back-end.
+- ⚡ Fato engraçado: Meu número da sorte é 9, mas eu não sou supersticiosa, é apenas uma coencidência.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
