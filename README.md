@@ -12,6 +12,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
 <div style="display: inline_block"><br>
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-Node" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Tai-Express" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Tai-Mocha" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Tai-MongoDB" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Tai-MySQL" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -23,6 +24,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img align="center" alt="Tai-Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
   <img align="center" alt="Tai-Ubuntu" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Tai-Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
 </div>
 
 ##
