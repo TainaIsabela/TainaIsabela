@@ -13,6 +13,8 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
 <div style="display: inline_block"><br>
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-Node" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Tai-React" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Tai-Typescript" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tai-Express" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Tai-Mocha" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg">
   <img align="center" alt="Tai-MongoDB" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
@@ -23,7 +25,6 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img align="center" alt="Tai-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Tai-Git" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Tai-Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="Tai-Ubuntu" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Tai-Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
 </div>
