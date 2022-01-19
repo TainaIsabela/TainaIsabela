@@ -11,6 +11,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Tai-Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-Node" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Tai-React" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
