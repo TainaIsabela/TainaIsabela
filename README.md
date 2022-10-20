@@ -34,7 +34,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainá-isabela-368286130/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tainaisabela9@gmail.com)
-
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tainaisabela9)
 
  ![Snake animation](https://github.com/TainaIsabela/TainaIsabela/blob/output/github-contribution-grid-snake.svg)
 
