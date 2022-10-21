@@ -7,7 +7,8 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <a href="https://github.com/TainaIsabela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaIsabela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&layout=compact&langs_count=10&theme=cobalt"/>
-  
+
+
 </div>
 
 <div style="display: inline_block"><br>
@@ -36,11 +37,8 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tainaisabela9@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tainaisabela9)
 
-<img align="left" ![Snake animation](https://github.com/TainaIsabela/TainaIsabela/blob/output/github-contribution-grid-snake.svg) />
-
-<img align="right" height = "150" src="https://i.picasion.com/pic92/88bd826175ef5ea87330895776008f8b.gif"/>
-
-
+<img height="180em" align="left" src="https://github.com/TainaIsabela/TainaIsabela/blob/output/github-contribution-grid-snake.svg" />
+<img height="160" width="160" align="right" src="https://i.picasion.com/pic92/88bd826175ef5ea87330895776008f8b.gif"/>
 
 
 <!--
