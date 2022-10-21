@@ -38,7 +38,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tainaisabela9)
 
 <img height="150em" align="left" src="https://github.com/TainaIsabela/TainaIsabela/blob/output/github-contribution-grid-snake.svg" />
-<img height="150" width="150" align="right" src="https://i.picasion.com/pic92/88bd826175ef5ea87330895776008f8b.gif"/>
+<img height="140" width="140" align="right" src="https://i.picasion.com/pic92/88bd826175ef5ea87330895776008f8b.gif"/>
 
 
 <!--
