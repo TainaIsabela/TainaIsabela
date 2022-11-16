@@ -5,8 +5,8 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
 -->
 <div>
   <a href="https://github.com/TainaIsabela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaIsabela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&layout=compact&langs_count=10&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaIsabela&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&layout=compact&langs_count=9&theme=material-palenight"/>
 
 
 </div>
