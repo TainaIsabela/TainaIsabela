@@ -25,6 +25,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img align="center" alt="Tai-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tai-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tai-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Tai-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="Tai-Git" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Tai-Linux" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
   <img align="center" alt="Tai-Vscode" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
