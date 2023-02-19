@@ -15,7 +15,6 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img align="center" alt="Tai-Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-Node" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Tai-React" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Tai-Typescript" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tai-Express" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   <img align="center" alt="Tai-Mocha" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg">
