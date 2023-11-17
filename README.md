@@ -8,7 +8,7 @@ Eu sou uma desenvolvedora Back-end e no meu tempo livre sou uma devoradora de li
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaIsabela&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TainaIsabela&layout=compact&langs_count=9&theme=material-palenight"/>
   </a>
-  <img height="180" width="180" align="right" src="https://i.picasion.com/pic92/88bd826175ef5ea87330895776008f8b.gif"/>
+ <!-- <img height="180" width="180" align="right" src="https://i.picasion.com/pic92/88bd826175ef5ea87330895776008f8b.gif"/>-->
 </div>
 
 <div style="display: inline_block"><br>
